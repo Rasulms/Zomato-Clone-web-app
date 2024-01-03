@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+## Run NPM install and Change the mongodb connection string before NPM start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
