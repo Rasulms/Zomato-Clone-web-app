@@ -1,0 +1,217 @@
+.App {
+  text-align: center;
+}
+.filter_box {
+  /* border: 2px solid; */
+  width: 95%;
+  /* margin: auto; */
+  height: 33vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1px 1px 17px -5px;
+  /* padding: 15px; */
+}
+.details_top_Section {
+  width: 100%;
+  position: relative;
+  /* border: 2px solid; */
+  /* height: 58vh; */
+  padding: 10px 20px 10px 20px;
+  z-index: -2;
+}
+.carousel {
+  width: 100%;
+  height: 58vh;
+}
+.filter_box_top {
+  height: 20vh;
+  display: flex;
+  gap: 25px;
+  padding: 15px;
+}
+li > span {
+  background-color: rgb(84, 94, 117) !important;
+  color: white !important;
+}
+li > a {
+  text-decoration: none !important;
+  color: rgb(84, 94, 117) !important;
+}
+
+.filter_box_bottom {
+  height: 13vh;
+  border-top: 1px solid #939090;
+  display: flex;
+  align-items: center;
+  width: 93%;
+  margin: auto;
+}
+.home_header {
+  width: 90%;
+  margin: auto;
+  height: 50px;
+}
+.image_div {
+  width: 45%;
+  height: 180px;
+  overflow: hidden;
+}
+.cardBox {
+  height: 170px !important;
+  width: 370px;
+  /* border: 2px solid; */
+  display: flex;
+  margin-right: 65px;
+  box-shadow: 9px 6px 43px -17px;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: 100ms linear;
+  text-decoration: none !important;
+}
+.cardBox:hover {
+  box-shadow: 9px 6px 43px -5px;
+}
+.cardBox:hover .image_div > img {
+  scale: 110%;
+  transition: 100ms linear;
+}
+.home_content_container {
+  display: flex;
+  flex-direction: column;
+  /* gap: 10px; */
+  height: 55vh;
+  align-items: center;
+}
+.home_search {
+  width: 55%;
+  display: flex;
+  /* border: 2px solid; */
+  gap: 10px;
+}
+.home_logo {
+  font-size: 40px;
+  border-radius: 29px;
+  width: 60px;
+  height: 63px;
+  text-align: center;
+  font-weight: 600;
+  background-color: white;
+  color: red;
+}
+.home_login_btn {
+  color: white !important;
+  background-color: transparent !important;
+  border: none !important;
+  float: right;
+  margin-right: 15px;
+  margin-top: 5px;
+}
+/* .socialBtn > div {
+  width: 100%;
+} */
+.my-facebook-button-class {
+  width: 100% !important;
+  height: 35px !important;
+  /* padding-top: 5px !important; */
+  border-radius: 5px !important;
+  font-size: 14px !important;
+  /* font-weight: 500 !important; */
+  border: 1px solid #dbd2d2;
+  margin-bottom: 10px !important;
+  /* padding-left: 90px !important; */
+}
+/* .my-google-button-class {
+  width: 100%;
+  height: 35px;
+  padding-top: 5px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 500;
+} */
+.filter_createAcc_btn {
+  color: white !important;
+  background-color: transparent !important;
+  border: 1px solid white !important;
+  border-radius: 5px;
+  float: right;
+  margin-top: 7px;
+}
+
+.filter_login_btn {
+  color: white !important;
+  background-color: transparent !important;
+  border: none !important;
+  float: right;
+  margin-right: 15px;
+  margin-top: 7px;
+}
+.left_side {
+  width: 20%;
+  height: 78vh;
+  border-radius: 7px;
+  /* border: 1px solid; */
+  box-shadow: 1px 1px 17px -5px;
+}
+.right_side {
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  /* height: 75vh; */
+  /* border: 2px solid blue; */
+}
+.filterPage_headerlogo {
+  font-size: 26px;
+  border-radius: 29px;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-weight: 600;
+  background-color: white;
+  color: red;
+  display: inline-block;
+  margin-top: 6px;
+}
+.home_section {
+  background-image: url("./Assets/Landing_image.jpg");
+  height: 62vh;
+  background-size: cover;
+}
+.home_createAcc_btn {
+  color: white !important;
+  background-color: transparent !important;
+  border: 1px solid white !important;
+  border-radius: 5px;
+  float: right;
+  margin-top: 5px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #6d6b6b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

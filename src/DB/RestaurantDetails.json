@@ -1,0 +1,273 @@
+[
+  {
+    "name": "Domino's",
+    "city": "Delhi",
+    "location_id ": 1,
+    "city_id": 1,
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "rating_text": "Very Good",
+    "min_price": 666,
+    "contact_number": 919453524651,
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 1,
+    "mealtype_name": "Breakfast",
+    "hotel_id": 1,
+    "about": "Jubilant FoodWorks Limited (the Company) is a Jubilant Bhartia Group Company. The Company was incorporated in 1995 and initiated operations in 1996. The Company got listed on the Indian bourses in February 2010. Mr. Shyam S. Bhartia, Mr. Hari S. Bhartia and Jubilant Consumer Pvt. Ltd. (formerly Jubilant Fresh Pvt. Ltd.) are the Promoters of the Company. The Company & its subsidiary operates Domino's Pizza brand with the exclusive rights for India, Nepal, Bangladesh and Sri Lanka. The Company is market leader in the pizza segment with a network of 1,249 Domino’s Pizza restaurants across 276 cities in India (as on June 30, 2019)",
+    "address": "COMMERCIAL UNIT (SHOP) NO.3, GROUND FLOOR & FIRST FLOOR,OUT OF BUILDING BUILT ON PLOT NO.5, BLOCK -BN (WEST), SHALIMAR BHAG, DELHI."
+  },
+  {
+    "name": "KFC",
+    "city": "Delhi",
+    "location_id ": 1,
+    "city_id": 1,
+    "locality": "Shalimar Bagh",
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "rating_text": "Excellent",
+    "min_price": 333,
+    "contact_number": 919453524651,
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 1,
+    " mealtype_name ": "Breakfast",
+    "hotel_id": 2,
+    "about": "KFC, a subsidiary of Yum! Brands, Inc. (NYSE: YUM.), is a global quick service restaurant brand with a rich, decades-long history of success and innovation. It all started with one cook, Colonel Harland Sanders, who created a finger lickin' good recipe more than 75 years ago, a list of secret herbs and spices scratched out on the back of the door to his kitchen. Today we still follow his formula for success, with real cooks breading and freshly preparing our delicious chicken by hand in more than 25,000 restaurants in over 145 countries and territories around the world.",
+    "address": "SN 24 & 25, Gr Flr, Community Center, Plot No 2, Block B & BD, Shalimar Bagh, New Delhi"
+  },
+  {
+    "name": "Burger King",
+    "city": "Chennai",
+    "location_id": 1,
+    "city_id": 1,
+    "locality": "Anand Vihar",
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 999,
+    "contact_number": 919453524651,
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 1,
+    "mealtype_name ": "Breakfast",
+    "hotel_id": 3,
+    "about": "Burger King India Limited is the master franchisee for BURGER KING® in India, operating BURGER KING® restaurants nationwide. Burger King India opened its first restaurant in India in 2014 and it operates more than 290+ restaurants across India. The brand recently launched its own ordering Burger King India APP with great offers, exclusive deals and loyalty rewards to users. The company operates with multiple restaurants in Delhi NCR, Punjab, Rajasthan, Mumbai, Nashik, Pune, Bengaluru, Chennai, Hyderabad, Kerala, Gujarat, Dehradun, UP, Bhopal, Gwalior, and Bhubaneswar etc",
+    "address": "PN S/40, 2nd Flr, Phoenix Market City, Velachery Road, Chennai - 600042"
+  },
+  {
+    "name": "Baba Ka Dhaba",
+    "city": "Chennai",
+    "location_id": 5,
+    "city_id": 1,
+    "locality": "Anand Vihar",
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "aggregate_rating": 3.5,
+    "rating_text": "Excellent",
+    "min_price": 599,
+    "contact_number": 919453524651,
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 2,
+    "mealtype_name ": "Lunch",
+    "hotel_id": 4,
+    "about": "Baba Ka Dhaba is known for its good quality food and services, including dine-in and home delivery. Some say the Maharani chicken is a must-try, and others mention the country chicken cooked in coal",
+    "address": "RMZ Eco World (Formerly Adarsh Software Park), Ground, Campus 4A&B, Adarsh Palm Retreat, Chennai."
+  },
+  {
+    "name": "Boomerang",
+    "city": "Chennai",
+    "location_id ": 1,
+    "city_id": 1,
+    "locality": "Anand Vihar",
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "min_price": 249,
+    "contact_number": 919453524651,
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 4,
+    "mealtype_name": "Snacks",
+    "hotel_id": 5,
+    "about": "Boomerang Ice Cream is a manufacturer of branded hard ice cream and gelato. The company was established in 1997 and has 16 outlets, including six in Coimbatore and the rest in other cities in Tamil Nadu. Boomerang is the largest manufacturer of branded hard ice cream in Tamil Nadu",
+    "address": "24, CLC Works Rd, Chennai, Tamil Nadu, India"
+  },
+  {
+    "name": "Polar Bear",
+    "city": "Chennai",
+    "location_id ": 1,
+    "city_id": 1,
+    "locality": "Anand Vihar",
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "min_price": 249,
+    "contact_number": 919453524651,
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 4,
+    "mealtype_name": "Snacks",
+    "hotel_id": 6,
+    "about": "Polar Bear – The Sundae Ice Cream Zone has evolved to create products and services that people love. Our story began when the founder, Kishore Rai discovered his love for ice cream and created much-loved sundaes that stood the test of time.",
+    "address": "No 72, 1st St, Indira Colony, Ashok Nagar, Chennai - 600082."
+  },
+  {
+    "name": "Anjappar",
+    "city": "Chennai",
+    "location_id ": 1,
+    "city_id": 1,
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "min_price": 249,
+    "contact_number": 919453524651,
+
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 1,
+    "mealtype_name": "Breakfast",
+    "hotel_id": 7,
+    "about": "Anjappar Chettinad Restaurant is a privately owned Indian casual-dining restaurant chain, founded in Chennai, Tamil Nadu, India in 1964. It now operates over 30 locations in Chennai, Erode, Madurai, Coimbatore, Salem, and Bangalore",
+    "address": "1, Velachery Bypass Rd, Kamarajapuram, Ganapathy Nagar, Velachery, Chennai, Tamil Nadu."
+  },
+  {
+    "name": "Rasikas",
+    "city": "Chennai",
+    "location_id ": 1,
+    "city_id": 1,
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "min_price": 399,
+    "contact_number": 919453524651,
+
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 1,
+    "mealtype_name": "Breakfast",
+    "hotel_id": 8,
+    "about": "Twenty-two years back, pack of two brothers wanted to serve the local Salem food lovers with Chinese & local Indian delicacies, which gave birth to RASIKAS Restaurant. To serve the best food, to give the best service, offer the best value and stay open all 365 days.",
+    "address": "24, Greenways Rd, Sinthampalayam, Fairlands, Chennai, Tamil Nadu 636016"
+  },
+  {
+    "name": "Nikka Briyani",
+    "city": "Chennai",
+    "location_id ": 1,
+    "city_id": 1,
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "min_price": 249,
+    "contact_number": 919453524651,
+
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 2,
+    "mealtype_name": "Lunch",
+    "hotel_id": 9,
+    "about": "Biryani is a spiced mix of meat and rice that's traditionally cooked over an open fire. It can be made with a variety of components to create different flavor combinations. Biryani is thought to have originated in Iran and can be made with chicken, beef, goat",
+    "address": "1, Velachery Bypass Rd, Devi Karumariamman Nagar Extension, Velachery, Chennai."
+  },
+  {
+    "name": "Sri Vaari",
+    "city": "Chennai",
+    "location_id ": 1,
+    "city_id": 1,
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "min_price": 399,
+    "contact_number": 919453524651,
+
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 1,
+    "mealtype_name": "Breakfast",
+    "hotel_id": 10,
+    "about": "Sri Vaari is a multicuisine restaurant in Fair Lands, Salem. Some say it's moderately expensive, with a price range of INR 200–400. Others say the food is tasty and hygienic, and that the restaurant has a good atmosphere",
+    "address": "Fairlands, Salem, Greenways Road, Alagapuram Pudur, Chennai."
+  },
+  {
+    "name": "Junior Kuppana",
+    "city": "Chennai",
+    "location_id ": 1,
+    "city_id": 1,
+    "locality": "Anand Vihar",
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "min_price": 249,
+    "contact_number": 919453524651,
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 1,
+    "mealtype_name": "Dinner",
+    "hotel_id": 11,
+    "about": "Founded in 1960 by Thiru Kuppusamy & Thirumati Rukmini Amma an exponent in Kongu Cuisine, This brand has travelled lands and made people devour on its taste and uniqueness over the last 60 years",
+    "address": "Plot 14, Sasi Nagar, Sreerosh Crystal Gaze, Velachery Bypass Road, Velachery, Chennai - 600042"
+  },
+  {
+    "name": "Melange",
+    "city": "Chennai",
+    "location_id ": 1,
+    "city_id": 1,
+    "thumb": [
+      "Assets/breakfast.jpg",
+      "Assets/dinner.png",
+      "Assets/drinks.png",
+      "Assets/dinner.png"
+    ],
+    "rating_text": "Very Good",
+    "min_price": 249,
+    "contact_number": 919453524651,
+    "image": "Assets/breakfast.jpg",
+    "mealtype_id": 1,
+    "mealtype_name": "Snacks",
+    "hotel_id": 12,
+    "about": "Melange Restaurant & Cafe offers a wide range of products and services, and the staff are said to be courteous and prompt. Some say it has the best biriyani in Salem and also offers handmade momos",
+    "address": "No: 118/35, Greenways Rd, Sinthampalayam, Fairlands, Chennai."
+  }
+]

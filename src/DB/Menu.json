@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Domino's",
+    "city": "Delhi",
+    "min_price": 666,
+    "mealtype_id": 1,
+    "mealtype_name": "Breakfast",
+    "hotel_id": 1,
+    "menu": [
+      {
+        "dish_name": "Indi Tandoori Paneer Pizza",
+        "type": "veg",
+        "description": "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, red paprika & mint mayo.",
+        "dish_price": 319,
+        "dish_qty": 0
+      },
+      {
+        "dish_name": "Chicken Dominator Pizza",
+        "type": "non-veg",
+        "description": "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers",
+        "dish_price": 369,
+        "dish_qty": 0
+      },
+      {
+        "dish_name": "Chicken Golden Delight Pizza",
+        "type": "non-veg",
+        "description": "Double pepper barbecue chicken, golden corn and extra cheese, true deligh",
+        "dish_price": 319,
+        "dish_qty": 0
+      },
+      {
+        "dish_name": "Roasted Chicken Wings Peri-Peri",
+        "type": "non-veg",
+        "description": "Crisp, roasted chicken wings in classic hot sauce and peri-peri flavour",
+        "dish_price": 179,
+        "dish_qty": 0
+      }
+    ]
+  },
+  {
+    "name": "KFC",
+    "city": "Delhi",
+    "min_price": 333,
+    "mealtype_id": 1,
+    " mealtype_name ": "Breakfast",
+    "hotel_id": 2,
+    "menu": [
+      {
+        "dish_name": "Festive Chicken Bucket - 15 Pcs",
+        "type": "non-veg",
+        "description": "5 Pc Hot & Crispy, 10 Pc Hot Wings, 4 Dips, Chocolava, Pepsi PET 475ml [Serves 3-4]",
+        "dish_price": 848,
+        "dish_qty": 0
+      },
+      {
+        "dish_name": "Zinger Pro Burger & Popcorn Meal",
+        "type": "non-veg",
+        "description": "New Zinger Pro premium Burger with Medium Popcorn and Pepsi PET 475ml at a deal price",
+        "dish_price": 459,
+        "dish_qty": 0
+      },
+      {
+        "dish_name": "Coffee Mousse Cake",
+        "type": "veg",
+        "description": "Coffee, chocolate, cake?what's not to love? Enjoy our delicious, new dessert for those coffee-licious temptations!",
+        "dish_price": 128,
+        "dish_qty": 0
+      },
+      {
+        "dish_name": "Hot & Crispy Chicken-4pc",
+        "type": "non-veg",
+        "description": "Save Rs. 34 on 4 pc of signature Hot & Crispy Chicken at a deal price",
+        "dish_price": 428,
+        "dish_qty": 0
+      }
+    ]
+  },
+  {
+    "name": "Burger King",
+    "city": "Chennai",
+    "min_price": 999,
+    "mealtype_id": 1,
+    "mealtype_name ": "Breakfast",
+    "hotel_id": 3,
+    "menu": [
+      {
+        "dish_name": "Fiery Chicken Wrap",
+        "type": "non-veg",
+        "description": "Our Best-Selling Burger With Crispy Chicken Patty, Cheese Slice, Onion And Classic Mayo Sauce",
+        "dish_price": 124,
+        "dish_qty": 0
+      },
+      {
+        "dish_name": "Crunchy Chicken Taco",
+        "type": "non-veg",
+        "description": "Crunchy Shell with chicken patty, crunchy veggies and spicy sauce",
+        "dish_price": 110,
+        "dish_qty": 0
+      },
+      {
+        "dish_name": "Coffee Mousse Cake",
+        "type": "veg",
+        "description": "Coffee, chocolate, cake?what's not to love? Enjoy our delicious, new dessert for those coffee-licious temptations!",
+        "dish_price": 128,
+        "dish_qty": 0
+      },
+      {
+        "dish_name": "Whopper Jr Veg",
+        "type": "non-veg",
+        "description": "Our Signature Whopper With 7 Layers Between The Buns In A Convenient Size.",
+        "dish_price": 149,
+        "dish_qty": 0
+      }
+    ]
+  }
+]
